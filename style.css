@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  font-family: 'Poppins', sans-serif;
+}
+canvas {
+  display: flex;
+  align-self: center;
+  margin: auto;
+}
+
+h1{
+  color: #ff5722;
+  text-align: center;
+}
+
+h2, h3 {
+  color: #880e4f;
+  font-size: 25px;
+  text-align: center;
+}
